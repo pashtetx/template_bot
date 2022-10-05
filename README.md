@@ -1,1 +1,1 @@
-BOT DISCORD
+# regina-bot
